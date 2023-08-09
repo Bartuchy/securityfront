@@ -3,7 +3,6 @@ import { AppComponent } from "./app.component";
 import { HomeComponent } from "./home/home.component";
 import { NgModule } from "@angular/core";
 import { LoginComponent } from "./auth/login/login.component";
-import { AuthGuard } from "./auth/auth.guard";
 import { SignupComponent } from "./auth/signup/signup.component";
 import { QrAuthComponent } from "./auth/login/qr-auth/qr-auth.component";
 

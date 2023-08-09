@@ -1,5 +1,5 @@
 header{
-  border-radius: 1px solid;
+  border-radius: 1px; solid-color: #030303;
 }
 .recipes-icon-svg{
   height: 50px;
@@ -9,23 +9,23 @@ header{
 
 .signbutton {
   float: right;
-  margin: 0px 3px;
+  margin: 0 3px;
 }
 
 .flex-grow-1 {
   margin: 0 3%;
 }
 
-.recipes-text{        
+.recipes-text{
   font-weight: 700;
   height: 50px;
-  width: 50px;    
+  width: 50px;
 }
 .logo{
   text-decoration: none;
 }
 
-.login, .sign-up{    
+.login, .sign-up{
   background-color: transparent;
   border-color: #0079D3;
   color: #0079D3;
@@ -34,15 +34,14 @@ header{
   border-radius: 4px;
   box-sizing: border-box;
   text-align: center;
-  letter-spacing: 1px;
   text-decoration: none;
   font-size: 12px;
   font-weight: 700;
-  letter-spacing: .5px;
+  letter-spacing: 1px;
   line-height: 24px;
   text-transform: uppercase;
   padding: 3px 16px;
-  opacity: 1;  
+  opacity: 1;
 }
 
 .sign-up{
@@ -55,7 +54,7 @@ header{
   opacity: 0.6;
 }
 
-.userdetails{    
+.userdetails{
   background-color: transparent;
   border-color: #0079D3;
   color: #0079D3;
